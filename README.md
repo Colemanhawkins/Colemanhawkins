@@ -1,6 +1,6 @@
 <h1 align="center">Hi , u wanna dance?</h1>
 
-<div class="tenor-gif-embed" data-postid="11784099" data-share-method="host" data-aspect-ratio="1.64948" data-width="100%"><a href="https://tenor.com/view/tom-and-jerry-jazz-band-gif-11784099">Tom And Jerry Jazz GIF</a>from <a href="https://tenor.com/search/tom+and+jerry-gifs">Tom And Jerry GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Alt Text](https://tenor.com/view/tom-and-jerry-jazz-band-gif-11784099)
 
 <h3 align="center">A maniacal kid who loves to build apps in both front end and back end</h3>
 
