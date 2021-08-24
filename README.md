@@ -1,6 +1,7 @@
 <h1 align="center">Hi , u wanna dance?</h1>
 
-<h2 aling="center">![alt-text](https://c.tenor.com/XMilLfwcHhYAAAAC/tom-and-jerry-jazz.gif)</h2>
+<img src="https://c.tenor.com/XMilLfwcHhYAAAAC/tom-and-jerry-jazz.gif" aling="center"/>
+
 
 <h3 align="center">A maniacal kid who loves to build apps in both front end and back end</h3>
 
