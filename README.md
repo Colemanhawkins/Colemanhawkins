@@ -7,9 +7,9 @@
 
 <h3 align="center">A maniacal kid who loves to build apps in both front end and back end</h3>
 
-- 🌱 I’m currently learning **Next.js, Docker, frameworks**
+- 🌱 I’m currently learning **Next.js, Docker**
 
-- 💬 Ask me about **React,Redux,SQL**
+- 💬 Ask me about **React,Redux,SQL, mongoDB**
 
 - 📫 How to reach me **gabrielcaba200@gmail.com**
 
