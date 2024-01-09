@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center">A maniacal kid who loves to build apps back end</h3>
+<h3 align="center">A man who loves to build back-ends apps</h3>
 
 - 🌱 I’m currently learning **Next.js, Docker**
 
