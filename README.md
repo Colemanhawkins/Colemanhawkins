@@ -14,20 +14,20 @@
 </div>
 
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Nodejs, Nest, TypeORM, Docker, Kubernetes, MongoDB**
-
-- 🌱 I’m currently learning **to create strongs Microservices Architectures for my apps.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Kubernetes**
-
-- 📝 I regularly read articles on [Medium](https://medium.com/)
-
-- 💬 Ask me about **NodeJs, Express, graphQL, Typescript, Sequelize**
-
-- 📫 Feel free to reach me out **gabrielcaba200@gmail.com**
-
-<!--Intro end-->
+```javascript
+const s_shemmee = {
+    bio: "¡Hey there! Gabriel here 👩🏻‍💻, a self-taught back-end developer passionate about Architecture and cloud world.",
+    techStack: {
+        languages:    ["JavaScript", "TypeScript"],
+        libraries:    ["Node.js", "Nest.js"],
+        frameworks:   ["GraphQL", "Express", "Nest.js"],
+        DbTools:      [PostgreSQL, TypeOrm],
+        TestsTools:   [Jest, Mocha, Chai],
+        Deploytools:  [Docker, Kubernetes, Github Actions, Netlify, DigitalOcean]
+    },
+    motto: "Building the future, line of code by line of code. 💻",
+};
+```
 
 
 
