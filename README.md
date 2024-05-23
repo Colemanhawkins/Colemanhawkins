@@ -1,7 +1,7 @@
 <h1 align="center">Hi , u wanna dance?</h1>
 
 
-<img src="https://www.mountainphotography.com/images/xl/20111229-Glaciar-Perito-Moreno.jpg" width="650px" heigth="350px"/>
+<img src="https://www.mountainphotography.com/images/xl/20111229-Glaciar-Perito-Moreno.jpg" width="1250px" heigth="350px"/>
 
 
 
