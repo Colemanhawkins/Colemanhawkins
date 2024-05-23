@@ -6,16 +6,30 @@
 <img src="https://scontent.faep6-2.fna.fbcdn.net/v/t39.30808-6/442484847_4392932160932480_5388462755453642310_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Y3wGxpk-1XwQ7kNvgFH9zXK&_nc_ht=scontent.faep6-2.fna&oh=00_AYAPsKWq-Uejq59sSshrf8Cc0MumFa_HbMKl2fZVqpTIkw&oe=6655024D" width="1012px" heigth="358px" />
 
 
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-<h3 align="center">A man who loves to build back-ends apps</h3>
 
-- 🌱 I’m currently learning **Next.js, Docker**
+<!--Intro start-->
+- 🔭 I’m currently working on **Nodejs, Nest, TypeORM, Docker, Kubernetes, MongoDB**
 
-- 💬 Ask me about **Sequelize, GraphQL, Typescript, NodeJs, Redis, Mocha, AWS**
+- 🌱 I’m currently learning **to create strongs Microservices Architectures for my apps.**
 
-- 📫 How to reach me **gabrielcaba200@gmail.com**
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Kubernetes**
 
-- ⚡ Fun fact **im a passionate for the digital art, olds films and new technologies**
+- 📝 I regularly read articles on [Hashnode](https://medium.com/)
+
+- 💬 Ask me about **NodeJs, Express, graphQL, Typescript, Sequelize**
+
+- 📫 Feel free to reach me out **gabrielcaba200@gmail.com**
+
+<!--Intro end-->
+
+
 
 
 <h3 align="center">Languages and Tools:</h3>
