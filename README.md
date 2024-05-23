@@ -9,7 +9,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block; color=cyan">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
 
@@ -21,7 +21,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS, Kubernetes**
 
-- 📝 I regularly read articles on [Hashnode](https://medium.com/)
+- 📝 I regularly read articles on [Medium](https://medium.com/)
 
 - 💬 Ask me about **NodeJs, Express, graphQL, Typescript, Sequelize**
 
