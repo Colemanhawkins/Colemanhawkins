@@ -9,10 +9,10 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul >
-    <summary><h2 style="display: inline-block; color=cyan">About me</h2></summary>
+    <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
-<table><tr><td valign="top" width="33%">
+
 
 ```javascript
 class BackendDev {
@@ -98,9 +98,6 @@ class BackendDev {
 
 
 ## Connect with me:
-
-
-
 
 
 <p align="center">
