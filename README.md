@@ -7,12 +7,9 @@
 
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block; color=cyan">Confusion is part of Programming</h2></summary>
-  </ul>
-</div>
 
+## About me
+<table><tr><td valign="top" width="33%">
 
 ```javascript
 class BackendDev {
@@ -26,6 +23,7 @@ class BackendDev {
             TestsTools:   ["Jest", "Mocha", "Chai"],
             Deploytools:  ["Docker", "Kubernetes", "Github Actions", "Netlify", "DigitalOcean"]
         };
+        this.hobbies= ['music', 'climbbing', 'theatre', 'art']
         this.motto = "Building the future, line of code by line of code. 💻";
     }
 }
