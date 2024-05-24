@@ -100,7 +100,7 @@ class BackendDev {
   <a href="https://github.com/Colemanhawkins">
     <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website">
   </a>
-  <a href="https://twitter.com/Gabrielprunesti">
+  <a href="https://X.com/Gabrielprunesti">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter">
   </a>
     <a href="mailto:gabrilcaba200@gmail.com">
