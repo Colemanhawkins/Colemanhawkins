@@ -12,6 +12,7 @@
     <summary><h2 style="display: inline-block; color=cyan">About me</h2></summary>
   </ul>
 </div>
+<table><tr><td valign="top" width="33%">
 
 ```javascript
 class BackendDev {
