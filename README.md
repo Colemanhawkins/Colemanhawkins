@@ -13,7 +13,7 @@
 ```javascript
 class BackendDev {
     constructor() {
-        this.bio = "¡Hey there! Gabriel here 👩🏻‍💻, a self-taught back-end developer passionate about Architecture and cloud world.";
+        this.bio = "¡Hey there! Gabriel here 👨‍💻, a self-taught back-end developer passionate about Architecture and cloud world.";
         this.techStack = {
             languages:    ["JavaScript", "TypeScript"],
             tecnologies:  ["Node.js", "Nest.js"],
