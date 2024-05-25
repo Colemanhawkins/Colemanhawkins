@@ -22,7 +22,7 @@ class BackendDev {
             TestsTools:   ["Jest", "Mocha", "Chai"],
             Deploytools:  ["Docker", "Kubernetes", "Github Actions", "Netlify", "DigitalOcean"]
         };
-        this.hobbies= ['music', 'climbbing', 'theatre', 'art']
+        this.hobbies= ['travel', 'climbbing', 'theatre', 'art', 'lecture','socialize']
         this.motto = "Building the future, line of code by line of code. 💻";
     }
 }
