@@ -95,17 +95,17 @@ class BackendDev {
 
 ## Connect with me:
 
-
+</a>
+    <a href="mailto:gabrilcaba200@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail">
+  </a>
 <p align="center">
   <a href="https://github.com/Colemanhawkins">
     <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website">
   </a>
   <a href="https://X.com/Gabrielprunesti">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter">
-  </a>
-    <a href="mailto:gabrilcaba200@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail">
-  </a>
+  
   <a href="https://www.linkedin.com/in/gabrielcaballero-dev/">
     <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn">
   </a>
