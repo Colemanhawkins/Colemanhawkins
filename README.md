@@ -17,13 +17,14 @@ class BackendDev {
         this.techStack = {
             languages:    ["JavaScript", "TypeScript"],
             tecnologies:  ["Node.js", "Nest.js"],
-            frameworks:   ["GraphQL", "Express", "Nest.js"],
-            DbTools:      ["PostgreSQL", "TypeOrm"],
+            frameworks:   ["Express", "Nest.js"],
+            ApiArq:       ["Rest", "Graphql", "Microservices"],
+            DbTools:      ["PostgreSQL","Prisma", "sequelize", "Mysql", "Mongodb"],
             TestsTools:   ["Jest", "Mocha", "Chai"],
             Deploytools:  ["Docker", "Github Actions", "Netlify", "DigitalOcean"]
         };
         this.hobbies= ['travel', 'climbbing', 'theatre', 'art', 'lecture','socialize']
-        this.motto = "Building the future, line of code by line of code. 💻";
+        this.motto = "Building me, line of code by line of code. 💻";
     }
 }
 ```
