@@ -15,9 +15,7 @@ class BackendDev {
     constructor() {
         this.bio = "¡Hey there! Gabriel here 👨‍💻, a self-taught back-end developer passionate about Architecture and cloud world.";
         this.techStack = {
-            languages:    ["JavaScript", "TypeScript"],
-            tecnologies:  ["Node.js", "Nest.js"],
-            frameworks:   ["Express", "Nest.js"],
+
             ApiArq:       ["Rest", "Graphql", "Microservices"],
             DbTools:      ["PostgreSQL","Prisma", "sequelize", "Mysql", "Mongodb"],
             TestsTools:   ["Jest", "Mocha", "Chai"],
